@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">电话测试</string>
+    <string name="action_settings">Settings</string>
+    <string name="phone_tev"></string>
+    <string name="phone_butclear">清除</string>
+	<string name="phone_but1">1</string>
+	<string name="phone_but2">2</string>	
+	<string name="phone_but3">3</string>	
+	<string name="phone_but4">4</string>	
+	<string name="phone_but5">5</string>	
+	<string name="phone_but6">6</string>	
+	<string name="phone_but7">7</string>	
+	<string name="phone_but8">8</string>	
+	<string name="phone_but9">9</string>	
+	<string name="phone_buta">*</string>
+	<string name="phone_but0">0</string>	
+	<string name="phone_butb">#</string>
+	<string name="phone_call">拨打</string>		
+</resources>
